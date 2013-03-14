@@ -1,4 +1,4 @@
-package IAWS.PROJET.COVOITURAGE;
+package mainpackage;
 
 /**
  * Hello world!

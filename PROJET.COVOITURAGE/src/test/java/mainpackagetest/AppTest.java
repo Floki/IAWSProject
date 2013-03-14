@@ -1,4 +1,4 @@
-package IAWS.PROJET.COVOITURAGE;
+package mainpackagetest;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
