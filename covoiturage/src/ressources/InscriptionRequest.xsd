@@ -1,0 +1,12 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://XXX.XXX/covoiturage/v1/" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="InscriptionRequest">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element type="xs:string" name="Nom"/>
+        <xs:element type="xs:string" name="Prenom"/>
+        <xs:element type="xs:string" name="Mail"/>
+        <xs:element type="xs:string" name="Adresse"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
