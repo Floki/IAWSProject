@@ -1,5 +1,0 @@
-<InscriptionResponce xmlns="http://XXX.XXX/covoiturage/v1/">
-    <Etat>OK</Etat>
-    <Code>0</Code>
-    <Message>Inscription validée</Message>
-</InscriptionResponce>

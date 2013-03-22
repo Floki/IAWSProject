@@ -1,6 +1,0 @@
-<InscriptionRequest xmlns="http://XXX.XXX/covoiturage/v1/">
-    <Nom>Dupond</Nom>
-    <Prenom>Pauline</Prenom>
-    <Mail>dupond.pauline@univ-tlse3.fr</Mail>
-    <Adresse>29 Rue Pablo Picasso 09600 Laroque d’Olmes</Adresse>
-</InscriptionRequest>
